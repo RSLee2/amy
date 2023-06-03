@@ -1,0 +1,27 @@
+{
+	"credit": "[The Murder of Sonic The Hedgehog](https://www.spriters-resource.com/pc_computer/themurderofsonicthehedgehog/)",
+	"sprites": [
+    		"https://i.imgur.com/ZSMrKqJ.png#amy00",
+	    	"https://i.imgur.com/MSaFKOW.png#amy01",
+    		"https://i.imgur.com/hgBLMhl.png#amy02",
+	    	"https://i.imgur.com/Jyytn5m.png#amy03",
+    		"https://i.imgur.com/hIJ81t6.png#amy04",
+   	 	"https://i.imgur.com/u6dCzxp.png#amy05",
+		"https://i.imgur.com/Icfu3AL.png#amy06",
+		"https://i.imgur.com/sH6FPsa.png#amy07",
+		"https://i.imgur.com/hVIdjGe.png#amy08",
+		"https://i.imgur.com/YzoXwjl.png#amy09",
+		"https://i.imgur.com/eVBWVwj.png#amy10",
+		"https://i.imgur.com/UrhUfQl.png#amy11",
+		"https://i.imgur.com/QA0A6K5.png#amy12",
+		"https://i.imgur.com/wr4k3CB.png#amy13",
+		"https://i.imgur.com/x8mlP8N.png#amy14",
+		"https://i.imgur.com/4qtCfYN.png#amy15",
+		"https://i.imgur.com/8queDQj.png#amy16",
+		"https://i.imgur.com/k9QJF7p.png#amy17" 
+		
+  	],
+  	"name": "Amy Rose",
+  	"id": "Rosy Rascal"
+  	
+}
